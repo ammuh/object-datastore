@@ -1,4 +1,4 @@
-# MiniDB: A Disk Based Object
+# MiniDB: A Disk Based Object DataStore
 
 For this homework I tried to implement an object store that writes any given struct to binary and can retrieve any object provided with the original key. This was meant to emulate a very crude form of a NOSQL database. 
 
